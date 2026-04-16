@@ -1,6 +1,6 @@
-# GenAI Viva Coach
+# GenViva: Presentation and Viva Coach
 
-GenAI Viva Coach is a full-stack AI-powered application designed to evaluate and improve student capstone presentations. It performs multimodal analysis on presentation slides (PPT/PDF) and video recordings to provide detailed feedback, identify weak areas, and conduct an interactive AI-driven viva session.
+GenViva is a full-stack application designed to evaluate and improve student capstone presentations. It performs multimodal analysis on presentation slides (PPT/PDF) and video recordings to provide detailed feedback, identify weak areas, and conduct an interactive AI-driven viva session.
 
 ## Features
 
