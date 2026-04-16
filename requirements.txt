@@ -1,0 +1,12 @@
+opencv-python
+faiss-cpu
+librosa
+numpy
+streamlit
+imageio-ffmpeg
+deepface
+moviepy
+sentence-transformers
+python-pptx
+PyMuPDF
+openai-whisper
