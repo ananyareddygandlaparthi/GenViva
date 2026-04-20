@@ -106,8 +106,7 @@ streamlit run app.py
 Mini Project/
 ├── app.py                  # Main Streamlit application (all logic)
 ├── requirements.txt        # Python dependencies
-├── README.md               # This file
-└── system_architecture.png # Architecture diagram
+└── README.md               # This file
 ```
 
 ---
