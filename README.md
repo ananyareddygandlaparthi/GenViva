@@ -103,7 +103,6 @@ streamlit run app.py
 ## 📂 Project Structure
 
 ```
-Mini Project/
 ├── app.py                  # Main Streamlit application (all logic)
 ├── requirements.txt        # Python dependencies
 └── README.md               # This file
