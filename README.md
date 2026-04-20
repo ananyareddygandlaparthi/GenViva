@@ -86,8 +86,8 @@ pip install -r requirements.txt
 Open `app.py` and replace the placeholder values:
 
 ```python
-GEMINI_API_KEY_1 = "YOUR_FIRST_GEMINI_API_KEY"
-GEMINI_API_KEY_2 = "YOUR_SECOND_GEMINI_API_KEY"
+GEMINI_API_KEY_1 = "FIRST_API_KEY_HERE"
+GEMINI_API_KEY_2 = "SECOND_API_KEY_HERE"
 ```
 
 > You can use the same key for both, or use two separate keys to avoid rate limits.
