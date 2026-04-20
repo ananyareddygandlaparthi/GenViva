@@ -140,6 +140,3 @@ Mini Project/
 
 ---
 
-## 📄 License
-
-This project was developed as part of the GenAI and its Applications course mini project at PES University, Semester 6.
