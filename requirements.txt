@@ -1,0 +1,15 @@
+
+streamlit>=1.33.0
+opencv-python>=4.9.0
+moviepy>=2.0.0
+imageio-ffmpeg>=0.5.1
+librosa>=0.10.2
+openai-whisper>=20231117
+deepface>=0.0.93
+sentence-transformers>=2.7.0
+faiss-cpu>=1.8.0
+python-pptx>=0.6.23
+PyMuPDF>=1.24.0
+google-genai>=0.7.0
+pydantic>=2.7.0
+numpy>=1.26.0
